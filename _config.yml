@@ -28,6 +28,8 @@ menu:
     url:               /example/
   - title:             Documentation
     url:               /docs/
+  - title:             Math
+    url:               /math/
   - title:             About
     url:               /about/
 
