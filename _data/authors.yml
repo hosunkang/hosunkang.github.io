@@ -8,7 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    hello! test
+    Hello! I'm Hosun Kang, a PhD student in Computer And Machine Engaged Laboratory (CAMEL) at Pusan National University.
+    My research topics are legged robot locomotion, reinforce learning. Enjoy my homepage!
 
   # This photo will be used in the about section
   picture:
