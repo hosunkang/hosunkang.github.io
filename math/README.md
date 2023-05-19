@@ -7,16 +7,16 @@ hide_description: true
 sitemap: false
 permalink: /math/
 ---
+Here is my study history in mathematics for robotics. 
+I will continue studying and updating the content. 
+Please feel free to correct any errors and ask questions.
 
-
-hello, world
-
-## Getting started
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
+## Linear Algebra [선형대수학]
+* [Gasuu-jordan Elimination]{:.heading.flip-title}
 {:.related-posts.faded}
 
 
-[install]: install.md
+[Gasuu-jordan Elimination]: gaussjordan.md
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
