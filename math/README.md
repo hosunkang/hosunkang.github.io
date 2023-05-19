@@ -12,7 +12,7 @@ I will continue studying and updating the content.
 Please feel free to correct any errors and ask questions.
 
 ## Linear Algebra [선형대수학]
-* [Gasuu-jordan Elimination]
+* [Gasuu-jordan Elimination]{:.heading.flip-title} {:.related-posts.faded}
 
 
 [Gasuu-jordan Elimination]: gaussjordan.md
